@@ -1,69 +1,136 @@
-# DROPTEX - Estrutura Atual das Páginas
+# PÁGINAS DA DROPTEX
 
-## Página Inicial
+## INÍCIO
+
 Objetivo:
-Captar leads.
+Página principal do site.
 
 Função:
-Apresentar a empresa, gerar confiança e direcionar para contato.
+Apresentar a DROPTEX, gerar autoridade e direcionar o visitante para as demais áreas.
 
-CTA Principal:
-Falar com Especialista.
+Status:
+Ativa.
 
-
-## Cursos DROPTEX
-Objetivo:
-Gerar autoridade.
-
-Função:
-Mostrar conhecimento e capturar leads através de conteúdo.
-
-
-## Planos DROPTEX
-Objetivo:
-Conversão.
-
-Função:
-Apresentar os serviços e transformar visitantes em clientes.
-
+---
 
 ## Como Funciona
+
 Objetivo:
-Reduzir dúvidas.
+Explicar o modelo operacional da DROPTEX.
 
 Função:
-Explicar o processo operacional da DROPTEX.
+Reduzir dúvidas e aumentar confiança.
 
+Status:
+Ativa.
+
+---
+
+## Cursos DROPTEX
+
+Objetivo:
+Captação de leads e geração de autoridade.
+
+Função:
+Apresentar treinamentos e conteúdos educacionais.
+
+Status:
+Ativa.
+
+---
+
+## Planos DROPTEX
+
+Objetivo:
+Conversão comercial.
+
+Função:
+Apresentar planos e serviços.
+
+Status:
+Ativa.
+
+---
+
+## Aplicativos e Automações
+
+Objetivo:
+Apresentar recursos tecnológicos da DROPTEX.
+
+Função:
+Demonstrar diferenciais e automações.
+
+Status:
+Ativa.
+
+---
 
 ## Depoimentos
+
 Objetivo:
 Prova social.
 
 Função:
-Demonstrar resultados e aumentar credibilidade.
+Aumentar credibilidade e confiança.
 
+Status:
+Ativa.
+
+---
 
 ## FAQ
+
 Objetivo:
 Quebrar objeções.
 
 Função:
 Responder dúvidas frequentes.
 
+Status:
+Ativa.
+
+---
 
 ## Falar com Especialista
+
 Objetivo:
-Contato direto.
+Geração de contato.
 
 Função:
-Gerar conversas via WhatsApp ou formulário.
+Levar o usuário para WhatsApp ou formulário.
 
+Status:
+Ativa.
+
+---
 
 ## Política de Privacidade
+
 Objetivo:
 Conformidade legal.
 
+Status:
+Ativa.
+
+---
 
 ## Termos de Uso
+
 Objetivo:
 Conformidade legal.
+
+Status:
+Ativa.
+
+---
+
+## Estamos em Manutenção
+
+Objetivo:
+Página temporária.
+
+Função:
+Exibição durante períodos de manutenção.
+
+Status:
+Reserva.

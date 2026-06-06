@@ -1,91 +1,223 @@
-# DROPTEX - Plugins Instalados
+# PLUGINS INSTALADOS — DROPTEX
 
-## Tema
-
-### Neve
-Função:
-Tema principal do site.
-
----
-
-## Construtor
+## Construtor de Páginas
 
 ### Elementor
+
 Função:
 Criação e edição visual das páginas.
 
+Status:
+Ativo.
+
+Observação:
+Plugin principal de construção visual.
+
 ---
 
-## Formulários
+### Elementor Pro
 
-### WPForms Lite
 Função:
-Captação de leads e formulários de contato.
+Recursos avançados do Elementor.
+
+Status:
+Ativo.
+
+Observação:
+Complementa o Elementor com funcionalidades premium.
 
 ---
 
 ## SEO
 
 ### Yoast SEO
+
 Função:
 Otimização para mecanismos de busca.
 
----
+Status:
+Ativo.
 
-## Google
+Utilização:
 
-### Site Kit by Google
-Função:
-Integração com Analytics, Search Console e outros serviços Google.
+* Meta títulos
+* Meta descrições
+* Sitemap
+* SEO On-Page
 
 ---
 
 ## Inteligência Artificial
 
-### AIY - Assistente IA
-Função:
-Recursos de IA dentro do WordPress.
+### AIYP
 
-### Fornecedor de IA para OpenAI
 Função:
-Integração com OpenAI.
+Assistente de IA para WordPress.
+
+Status:
+Ativo.
+
+---
 
 ### Extendify
+
 Função:
-Assistente de criação de conteúdo.
+Assistente de criação e geração de conteúdo.
+
+Status:
+Ativo.
+
+---
+
+### Gerenciador de IA da OpenAI
+
+Função:
+Integrações com modelos OpenAI.
+
+Status:
+Ativo.
 
 ---
 
 ## Marketing
 
 ### Pixel Builder
+
 Função:
 Gerenciamento de pixels de rastreamento.
+
+Status:
+Ativo.
+
+Utilização:
+Facebook Pixel
+Google Ads
+Conversões
 
 ---
 
 ## Otimização
 
 ### OMGF
+
 Função:
 Otimização de fontes Google.
 
-### WP Headers and Footers
-Função:
-Inserção de scripts personalizados.
+Status:
+Ativo.
 
 ---
 
-## Observações
+### Site Kit by Google
 
-Hospedagem:
+Função:
+Integração com serviços Google.
+
+Status:
+Ativo.
+
+Possíveis integrações:
+
+* Analytics
+* Search Console
+* Adsense
+* PageSpeed
+
+---
+
+## Código Personalizado
+
+### WP Headers And Footers
+
+Função:
+Inserção de scripts personalizados.
+
+Status:
+Ativo.
+
+Utilização:
+Pixels, rastreamentos e scripts externos.
+
+---
+
+## Formulários
+
+### WPForms Lite
+
+Função:
+Criação de formulários.
+
+Status:
+Ativo.
+
+Possível utilização:
+
+* Captação de leads
+* Contato
+* Solicitação de orçamento
+
+---
+
+## Gestão de Conteúdo
+
+### Office - Page Builder Blocks
+
+Função:
+Blocos adicionais para Gutenberg.
+
+Status:
+Ativo.
+
+---
+
+### Spectra
+
+Função:
+Blocos avançados para Gutenberg.
+
+Status:
+Ativo.
+
+---
+
+## Comentários
+
+### Jetpack
+
+Função:
+Recursos de comentários e melhorias WordPress.
+
+Status:
+Ativo.
+
+---
+
+## Segurança e Acesso
+
+### Ally
+
+Função:
+Acessibilidade e conformidade.
+
+Status:
+Ativo.
+
+---
+
+## Hospedagem
+
+Host:
 HostGator
 
 CMS:
 WordPress
 
+Tema:
+Neve
+
 Editor:
 Gutenberg + Elementor
 
-Domínio:
-andrediasdroptex.com.br
+Última atualização:
+Junho/2026
+
