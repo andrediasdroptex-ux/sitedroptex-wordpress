@@ -43,3 +43,18 @@ CSS salvo
 
 Próximo passo:
 Mapear plugins instalados
+
+Tema:
+Neve
+
+Construtor:
+WordPress Gutenberg
+
+Hospedagem:
+HostGator
+
+Domínio:
+andrediasdroptex.com.br
+
+Repositório:
+https://github.com/andrediasdroptex-ux/sitedroptex-wordpress
