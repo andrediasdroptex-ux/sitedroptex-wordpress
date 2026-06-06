@@ -2,6 +2,10 @@
 
 ## Fase 1 — Organização
 
+PRIORIDADE BAIXA
+
+Corrigir item "Início (inválido)" no menu principal.
+
 * Estruturar repositório GitHub
 * Organizar documentação
 * Organizar CSS
