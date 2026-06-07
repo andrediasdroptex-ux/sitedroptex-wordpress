@@ -26,38 +26,38 @@ css/droptex-css-atual.css
 
 Principais recursos:
 
-- Botões premium
-- Botão WhatsApp
-- Rodapé personalizado
-- Centralização do Hero
-- Responsividade Mobile
-- Hover de menu
-- Animações suaves
-- Scroll suave
-- Ajustes de UX
+* Botões premium
+* Botão WhatsApp
+* Rodapé personalizado
+* Centralização do Hero
+* Responsividade Mobile
+* Hover de menu
+* Animações suaves
+* Scroll suave
+* Ajustes de UX
 
 ---
 
 ## Melhorias já implementadas
 
-- Rodapé centralizado
-- Remoção dos créditos do tema
-- Fundo preto no rodapé
-- Links brancos
-- CTA WhatsApp destacado
-- Hero centralizado
-- Melhorias mobile
-- Melhorias visuais dos botões
+* Rodapé centralizado
+* Remoção dos créditos do tema
+* Fundo preto no rodapé
+* Links brancos
+* CTA WhatsApp destacado
+* Hero centralizado
+* Melhorias mobile
+* Melhorias visuais dos botões
 
 ---
 
 ## Problemas ainda em análise
 
-- Diferenças entre versão logada e pública
-- Organização futura do tema filho
-- Estrutura de imagens
-- Otimização SEO
-- Performance
+* Diferenças entre versão logada e pública
+* Organização futura do tema filho
+* Estrutura de imagens
+* Otimização SEO
+* Performance
 
 ---
 
@@ -70,3 +70,13 @@ Organizar CSS.
 Versionar futuras alterações via GitHub.
 
 Utilizar Codex como assistente de manutenção.
+
+---
+
+## Observação
+
+Os créditos padrão do tema Neve e do WordPress foram removidos do rodapé.
+
+Esta alteração foi validada visualmente e faz parte das melhorias de posicionamento profissional da marca DROPTEX.
+
+Após atualizações do tema, plugins ou mudanças estruturais no rodapé, recomenda-se validar novamente se a personalização permanece ativa.
