@@ -4,9 +4,43 @@
 
 DROPTEX
 
-Slogan:
+Slogan: A logística escala, o negócio cresce!
 
-A logística que escala o seu negócio.
+---
+
+## O que é a DROPTEX
+
+A DROPTEX é uma empresa especializada em fulfillment, logística para e-commerce e suporte operacional para vendedores online.
+
+Nosso objetivo é permitir que empreendedores e lojas virtuais cresçam sem precisar administrar toda a operação logística do dia a dia.
+
+O cliente vende.
+
+A DROPTEX opera.
+
+---
+
+## O que a DROPTEX NÃO É
+
+A DROPTEX não é uma empresa de dropshipping.
+
+Embora possamos atender clientes que utilizam modelos de dropshipping, nossa operação é baseada em logística real.
+
+Recebemos produtos.
+
+Armazenamos produtos.
+
+Separamos pedidos.
+
+Embalamos.
+
+Despachamos.
+
+Controlamos a operação.
+
+Acompanhamos a movimentação dos pedidos.
+
+Nosso posicionamento é de fulfillment e operação logística.
 
 ---
 
@@ -22,14 +56,36 @@ Ser referência nacional em fulfillment, logística para e-commerce e soluções
 
 ---
 
+## Valores
+
+Transparência.
+
+Confiabilidade.
+
+Organização.
+
+Comprometimento.
+
+Evolução contínua.
+
+Foco no cliente.
+
+Simplicidade operacional.
+
+Responsabilidade com os resultados.
+
+---
+
 ## Público-Alvo
 
-- Lojistas online
-- Marketplaces
-- E-commerce
-- Importadores
-- Revendedores
-- Empreendedores digitais
+* Lojistas online
+* Marketplaces
+* E-commerce
+* Importadores
+* Revendedores
+* Empreendedores digitais
+* Marcas próprias
+* Operadores de venda online
 
 ---
 
@@ -37,23 +93,33 @@ Ser referência nacional em fulfillment, logística para e-commerce e soluções
 
 ### Fulfillment
 
-Recebimento
-Armazenagem
-Separação
-Embalagem
-Expedição
+Recebimento de mercadorias.
+
+Armazenagem.
+
+Separação de pedidos.
+
+Embalagem.
+
+Expedição.
+
+Controle operacional.
 
 ---
 
 ### Logística
 
-Gestão operacional
+Gestão operacional.
 
-Controle de pedidos
+Controle de pedidos.
 
-Despacho
+Despacho.
 
-Rastreamento
+Rastreamento.
+
+Acompanhamento logístico.
+
+Suporte operacional.
 
 ---
 
@@ -63,11 +129,15 @@ Sistema de créditos pré-pagos.
 
 Controle financeiro.
 
-Extrato.
+Extrato detalhado.
 
-Saldo.
+Saldo atualizado.
+
+Histórico de movimentações.
 
 Acompanhamento operacional.
+
+Portal do parceiro.
 
 ---
 
@@ -77,7 +147,11 @@ Curso gratuito.
 
 Treinamentos.
 
+Materiais educativos.
+
 Mentorias futuras.
+
+Capacitação para vendedores online.
 
 ---
 
@@ -87,8 +161,29 @@ A DROPTEX não vende apenas logística.
 
 A DROPTEX vende crescimento operacional.
 
+Ajudamos nossos clientes a escalar suas vendas sem aumentar sua carga operacional.
+
 O cliente vende.
+
 A DROPTEX opera.
+
+---
+
+## Diferenciais
+
+Atendimento próximo.
+
+Operação organizada.
+
+Controle financeiro transparente.
+
+Sistema próprio de acompanhamento.
+
+Modelo de créditos pré-pagos.
+
+Foco em vendedores online.
+
+Integração entre operação, logística e gestão.
 
 ---
 
@@ -102,7 +197,13 @@ Simples.
 
 Confiável.
 
+Didático.
+
+Direto.
+
 Sem promessas exageradas.
+
+Sem linguagem apelativa.
 
 ---
 
@@ -118,6 +219,26 @@ Verde WhatsApp.
 
 ---
 
+## Palavras-Chave da Marca
+
+Fulfillment.
+
+Logística para e-commerce.
+
+Centro operacional.
+
+Gestão de pedidos.
+
+Operação logística.
+
+Vendas online.
+
+Escala operacional.
+
+Parceiro logístico.
+
+---
+
 ## Regras da Marca
 
 Priorizar clareza.
@@ -126,9 +247,15 @@ Priorizar confiança.
 
 Priorizar autoridade.
 
+Priorizar experiência do usuário.
+
 Evitar excesso de efeitos visuais.
 
 Evitar aparência amadora.
+
+Evitar promessas irreais.
+
+Evitar comunicação agressiva.
 
 Toda alteração deve preservar a identidade da DROPTEX.
 
@@ -147,3 +274,25 @@ Apresentar serviços.
 Apresentar a plataforma.
 
 Converter visitantes em clientes.
+
+Demonstrar profissionalismo operacional.
+
+Transmitir confiança e segurança.
+
+Posicionar a DROPTEX como parceira estratégica de crescimento.
+
+---
+
+## Regra Estratégica
+
+Antes de qualquer alteração visual, estrutural ou de conteúdo:
+
+Verificar se a mudança fortalece:
+
+* Autoridade
+* Confiança
+* Clareza
+* Conversão
+* Posicionamento profissional
+
+Caso não fortaleça esses pilares, a alteração deve ser reavaliada.
