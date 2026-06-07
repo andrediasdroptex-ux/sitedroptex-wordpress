@@ -130,11 +130,11 @@ Atualizar quando necessário:
 
 Toda alteração deve seguir:
 
+```bash
 git add .
-
 git commit -m "Descrição da alteração"
-
 git push
+```
 
 ---
 
@@ -143,14 +143,27 @@ git push
 Toda alteração deve preservar:
 
 Marca:
+
 DROPTEX
 
-Slogan:
+Slogan Oficial:
+
+A logística escala, o negócio cresce!
+
+Variação Permitida de Comunicação:
+
 A logística que escala o seu negócio.
+
+Observação:
+
+O slogan oficial da marca é definido em `identidade-droptex.md`.
+
+As variações permitidas podem ser utilizadas em campanhas, materiais de marketing, conteúdos, anúncios, redes sociais e comunicações específicas.
 
 Posicionamento:
 
 O cliente vende.
+
 A DROPTEX opera.
 
 Objetivos:
@@ -219,8 +232,13 @@ Nunca por reconstruções desnecessárias.
 Princípio permanente:
 
 Analisar.
+
 Documentar.
+
 Validar.
+
 Implementar.
+
 Testar.
+
 Registrar.

@@ -1,8 +1,38 @@
 # INVENTÁRIO DROPTEX
 
+## Objetivo
+
+Este documento registra os principais componentes atualmente utilizados no site institucional da DROPTEX.
+
+Serve como referência rápida para auditorias, manutenção, desenvolvimento e utilização de ferramentas de IA.
+
+---
+
+## Site
+
+URL:
+
+https://andrediasdroptex.com.br
+
+---
+
+## CMS
+
+WordPress
+
+---
+
 ## Tema
 
-* Neve
+### Tema Ativo
+
+Neve
+
+### Tema Filho
+
+Não implementado.
+
+Planejado para futuras evoluções.
 
 ---
 
@@ -10,16 +40,52 @@
 
 * Gutenberg
 * Elementor
+* Elementor Pro
 
 ---
 
-## Plugins
+## Hospedagem
 
-(Preencher)
+HostGator
 
 ---
 
-## Páginas
+## Controle de Versão
+
+GitHub
+
+Repositório:
+
+https://github.com/andrediasdroptex-ux/sitedroptex-wordpress
+
+---
+
+## Plugins Instalados
+
+Documentação completa disponível em:
+
+plugins-instalados.md
+
+Principais plugins:
+
+* Elementor
+* Elementor Pro
+* Yoast SEO
+* WPForms Lite
+* Site Kit by Google
+* Pixel Builder
+* OMGF
+* Jetpack
+* Spectra
+* WP Headers And Footers
+* Ally
+* AIYP
+* Extendify
+* Gerenciador de IA da OpenAI
+
+---
+
+## Páginas Principais
 
 * Home
 * Cursos
@@ -34,22 +100,91 @@
 
 ## CSS
 
-* droptex-css-atual.css
+Arquivo principal:
+
+droptex-css-atual.css
+
+Documentação complementar:
+
+customizacoes-site.md
 
 ---
 
-## Integrações
+## Integrações Identificadas
 
-(Preencher)
+* Google Site Kit
+* Google Analytics (via Site Kit)
+* Google Search Console (via Site Kit)
+* Pixel Builder
+* Integrações OpenAI
+* WhatsApp
+
+Observação:
+
+Algumas integrações devem ser validadas periodicamente para confirmar funcionamento e configuração.
 
 ---
 
 ## Formulários
 
-(Preencher)
+Ferramenta principal:
+
+WPForms Lite
+
+Utilização prevista:
+
+* Captação de leads
+* Contato comercial
+* Solicitação de orçamento
+* Cadastro para cursos
+
+---
+
+## SEO
+
+Ferramenta principal:
+
+Yoast SEO
+
+Objetivos:
+
+* SEO Técnico
+* SEO Local
+* SEO Nacional
+* Otimização de conteúdo
+
+---
+
+## Documentação Relacionada
+
+* estado-atual-site.md
+* plugins-instalados.md
+* tema-neve.md
+* estrutura-home.md
+* paginas-do-site.md
+* customizacoes-site.md
+
+---
+
+## Status Atual
+
+Site ativo.
+
+Documentação estruturada.
+
+Controle de versão ativo.
+
+Processo de melhoria contínua em andamento.
 
 ---
 
 ## Observações
 
-(Preencher)
+Toda alteração relevante deve ser documentada.
+
+Antes de qualquer modificação:
+
+* Analisar estrutura existente
+* Consultar documentação
+* Preservar identidade da DROPTEX
+* Priorizar reaproveitamento
