@@ -5,33 +5,35 @@
 Tema:
 Neve
 
-Versão:
-(Consultar em Aparência > Temas)
+Desenvolvedor:
+ThemeIsle
 
-Editor:
+CMS:
+WordPress
+
+Editor principal:
 Gutenberg
 
-Page Builder:
-Elementor (instalado)
+Page Builder instalado:
+Elementor
+
+Hospedagem:
+HostGator
 
 ---
 
 ## Layout Global
 
-Largura do Container:
-
+Largura do container:
 1170px
 
 Layout:
-
-Conteúdo Total (Full Width)
+Conteúdo total / Full Width
 
 Largura do conteúdo:
-
 100%
 
 Espaçamento vertical:
-
 15px
 
 ---
@@ -39,18 +41,9 @@ Espaçamento vertical:
 ## Cabeçalho
 
 Layout:
+Menu horizontal superior
 
-Coberto (Overlay)
-
-Título da página:
-
-Ativado
-
-Alinhamento:
-
-Centralizado
-
-Menu Principal:
+Menu principal:
 
 - A Empresa
 - Planos DROPTEX
@@ -58,52 +51,63 @@ Menu Principal:
 - Contato
 
 Observação:
-
-Item "Início" removido por estar inválido.
+O item "Início" apareceu anteriormente como inválido e deve ser revisado.
 
 ---
 
-## Cores
+## Rodapé
 
-Cor Primária:
+Status:
+Personalizado via CSS.
 
+Características:
+
+- Fundo preto
+- Links brancos
+- Itens centralizados
+- Créditos do tema ocultados
+- Espaçamento inferior ajustado
+
+Arquivo relacionado:
+droptex-css-atual.css
+
+---
+
+## Identidade Visual
+
+Cor primária:
 #0056B3
 
-Cor Secundária:
-
-#0056B3
-
-Cor CTA:
-
+Cor CTA WhatsApp:
 #25D366
 
-Texto:
-
+Cor do texto sobre fundo escuro:
 #FFFFFF
 
 Fundo escuro:
-
 #000000
+
+Estilo:
+Profissional, moderno, institucional e focado em conversão.
 
 ---
 
 ## Botões
 
 Tamanho do texto:
-
 18px
 
 Raio de borda:
-
 20px
 
-Botão Primário:
-
+Botão principal:
 Preenchido
 
-Botão Secundário:
-
+Botão secundário:
 Contorno
+
+CTA principal:
+WhatsApp / Falar com especialista
 
 ---
 
@@ -118,19 +122,8 @@ Necessário validar
 Mobile:
 Necessário validar
 
----
-
-## Formulários
-
-WPForms
-
-Cor da borda:
-
-Escura
-
-Raio:
-
-0px
+Observação:
+Existem ajustes mobile no CSS personalizado.
 
 ---
 
@@ -147,14 +140,17 @@ Tipo:
 
 ---
 
-## Observações
+## Observações Técnicas
 
-Site institucional focado em:
+Customizações principais armazenadas em:
+droptex-css-atual.css
 
-- Captação de leads
-- Autoridade
-- Conversão
-- Serviços logísticos
-- Plataforma DROPTEX
+O site utiliza:
+Neve + Gutenberg + Elementor + CSS adicional.
 
-Tema configurado para layout moderno com background em tela cheia.
+Antes de alterar layout, verificar:
+
+- Configurações do Neve
+- Blocos da página
+- CSS adicional
+- Plugins ativos
