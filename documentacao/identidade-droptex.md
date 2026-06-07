@@ -4,7 +4,39 @@
 
 DROPTEX
 
-Slogan: A logística escala, o negócio cresce!
+Slogan:
+
+A logística escala, o negócio cresce!
+
+---
+
+## Variações Permitidas de Comunicação
+
+Slogan principal da marca:
+
+A logística escala, o negócio cresce!
+
+A DROPTEX pode utilizar variações derivadas do slogan em campanhas, materiais de marketing, conteúdos, anúncios, redes sociais e comunicações específicas.
+
+Exemplo de variação permitida:
+
+A logística que escala o seu negócio.
+
+Objetivo:
+
+Permitir flexibilidade de comunicação sem descaracterizar a identidade da marca.
+
+As variações podem ser utilizadas para reforçar posicionamento, clareza comercial, campanhas publicitárias ou objetivos específicos de comunicação.
+
+---
+
+## Regra
+
+O slogan principal da marca permanece:
+
+A logística escala, o negócio cresce!
+
+As demais variações devem ser entendidas como extensões de comunicação e não como substituição do slogan oficial.
 
 ---
 
